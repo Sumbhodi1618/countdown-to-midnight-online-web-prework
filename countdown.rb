@@ -2,7 +2,7 @@
 def countdown
   number = 0 
 while number <= 0 
-puts "#{number} SECONDS!"
+puts "#{number} SECOND(S)!"
 end
 puts "HAPPY NEW YEAR"
 end
