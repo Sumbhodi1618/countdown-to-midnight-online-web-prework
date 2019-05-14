@@ -1,4 +1,8 @@
 #write your code here
 def countdown
-  x = 0 
+  number = 0 
+while number <= 0 
+puts "#{number} SECONDS!"
+end
+puts "HAPPY NEW YEAR"
 end
