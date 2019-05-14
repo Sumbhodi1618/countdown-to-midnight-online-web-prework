@@ -1,6 +1,5 @@
 #write your code here
-def countdown(count_down_with_sleep = 5)
-  runtime = Benchmark.measure { countdown_with_sleep(5) }
+def countdown
   number = 0
 while number <= 10 
 number -= 1 
